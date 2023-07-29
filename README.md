@@ -12,7 +12,7 @@ This web application, built with JavaScript, CSS, and HTML, allows you to fetch 
 
 ## Demo
 
-You can try out the live demo of this project [here](https://master--guileless-flan-95e959.netlify.app/)
+You can try out the live demo of this project [here](https://app.netlify.com/sites/lustrous-brioche-b2c46d/overview)
 
 ## Installation
 
