@@ -12,14 +12,14 @@ This web application, built with JavaScript, CSS, and HTML, allows you to fetch 
 
 ## Demo
 
-You can try out the live demo of this project [here](https://app.netlify.com/sites/lustrous-brioche-b2c46d/overview)
+You can try out the live demo of this project [here](https://lustrous-brioche-b2c46d.netlify.app/)
 
 ## Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sakshams23/Git_Detector.git
+ https://github.com/diksha-2001/Dev_detective_project.git
    ```
 2. Navigate to the project directory
 3. Open index.html in your preferred web browser.
