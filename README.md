@@ -19,7 +19,7 @@ You can try out the live demo of this project [here](https://lustrous-brioche-b2
 1. Clone the repository:
 
    ```bash
- https://github.com/diksha-2001/Dev_detective_project.git
+   https://github.com/diksha-2001/Dev_detective_project.git
    ```
 2. Navigate to the project directory
 3. Open index.html in your preferred web browser.
